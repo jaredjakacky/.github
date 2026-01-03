@@ -1,14 +1,28 @@
-# JJakacky Software Laboratory
+# Jakacky Labs
 
-A software research lab dedicated to experimental projects, prototypes, and exploration.
+Jakacky Labs is a personal software lab for building, testing, and exploring. It’s a space for engineering work, tools, data projects, and whatever else seems worth digging into.
 
-## About
-JJakacky Software Laboratory is a personal space for learning, testing, developing software ideas, and just playing around.
+## What This Is
+
+Not everything here is polished. Some of it’s infrastructure code, some of it’s data-heavy, some of it’s just curiosity with a keyboard.
+
+Jakacky Labs serves as:
+- A sandbox for prototypes and scratchpad ideas  
+- A place to build tools that solve real problems  
+- A working archive of past and ongoing projects
 
 ## Projects
-🔒 Many projects are private (for now).  
-🧪 Public experiments may appear here in the future.
 
-## Contact
-This is a private research lab.  
-No tours. No press. 😎
+Some work is public, some stays private. Topics vary, but tend to center around:
+
+- Infrastructure, automation, and internal tooling  
+- Data systems, storage, and the stuff that moves between them  
+- Systems design, performance, and operational sanity  
+- One-off experiments that might go somewhere—or not
+
+## Notes
+
+Jakacky Labs is independent and unaffiliated with any employer, past or present.
+
+Reach out if something catches your attention.  
+📬 **jaredjakacky@gmail.com**
