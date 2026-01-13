@@ -1,28 +1,20 @@
-# Jakacky Labs
+# Jared Jakacky
 
-Jakacky Labs is a personal software lab for building, testing, and exploring. It’s a space for engineering work, tools, data projects, and whatever else seems worth digging into.
+Software Engineer with experience building and operating production systems across a wide range of domains.
 
-## What This Is
+My work includes backend services, infrastructure and platform tooling, data systems, and user-facing applications. I’ve spent much of my career writing software that runs continuously, integrates with other systems, and must be maintained by teams over long periods of time.
 
-Not everything here is polished. Some of it’s infrastructure code, some of it’s data-heavy, some of it’s just curiosity with a keyboard.
+## Background
 
-Jakacky Labs serves as:
-- A sandbox for prototypes and scratchpad ideas  
-- A place to build tools that solve real problems  
-- A working archive of past and ongoing projects
+My professional work has included:
 
-## Projects
+- Building and operating Kubernetes-based platforms
+- Designing and maintaining CI/CD and deployment workflows
+- Working directly with relational and non-relational databases
+- Developing backend services and APIs
+- Building and maintaining user-facing applications
+- Supporting systems used in regulated and high-reliability environments
 
-Some work is public, some stays private. Topics vary, but tend to center around:
+Earlier in my career, I worked in clinical and research settings where correctness, repeatability, and validation were required. That experience continues to influence how I approach software design and operation.
 
-- Infrastructure, automation, and internal tooling  
-- Data systems, storage, and the stuff that moves between them  
-- Systems design, performance, and operational sanity  
-- One-off experiments that might go somewhere—or not
-
-## Notes
-
-Jakacky Labs is independent and unaffiliated with any employer, past or present.
-
-Reach out if something catches your attention.  
-📬 **jaredjakacky@gmail.com**
+Contact: **jared@jakacky.dev**
