@@ -2,11 +2,11 @@
 
 Software Engineer with experience building and operating production systems across a wide range of domains.
 
-My work includes backend services, infrastructure and platform tooling, data systems, and user-facing applications. I’ve spent much of my career writing software that runs continuously, integrates with other systems, and must be maintained by teams over long periods of time.
+I work across backend services, infrastructure and platform tooling, data systems, and user-facing applications. Most of my experience is with software that runs continuously, integrates with other systems, and needs to be maintained by teams over time.
 
 ## Background
 
-My professional work has included:
+My work has included:
 
 - Building and operating Kubernetes-based platforms
 - Designing and maintaining CI/CD and deployment workflows
